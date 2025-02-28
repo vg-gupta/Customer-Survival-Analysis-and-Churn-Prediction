@@ -89,8 +89,4 @@ By leveraging **Survival Analysis** and **Predictive Analytics**, this project h
 ## **🔥 Get Started!**  
 🚀 Clone, contribute, and enhance this project! Your feedback and contributions are welcome!  
 
-📌 **GitHub Repo**: [Link to Repository]  
 
----
-
-Let me know if you need any modifications! 😊
