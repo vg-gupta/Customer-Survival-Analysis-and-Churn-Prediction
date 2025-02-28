@@ -50,7 +50,11 @@ By leveraging **Survival Analysis** and **Predictive Analytics**, this project h
 
 ### **4️⃣ Explainability & Insights**  
 - Compute **Feature Importance & SHAP values** to understand key churn factors  
-- Use **Partial Dependence Plots** to assess how features impact churn probability  
+- Use **Partial Dependence Plots** to assess how features impact churn probability
+ <img width="289" alt="eli51" src="https://github.com/user-attachments/assets/c1c6e7ad-3523-4142-b13e-d65222c6994f" />
+<img width="290" alt="eli52" src="https://github.com/user-attachments/assets/f6be0866-92c0-4804-81b5-4a948a932288" />
+
+![shap](https://github.com/user-attachments/assets/e122d2ea-a342-401b-86da-33993201492b)
 
 ### **5️⃣ Flask Web App Deployment**  
 - Build a **user-friendly web app** for real-time churn prediction  
