@@ -19,6 +19,7 @@ By leveraging **Survival Analysis** and **Predictive Analytics**, this project h
 ✅ **Customer Lifetime Value Estimation** – Predicts remaining lifetime & potential revenue loss  
 ✅ **Comprehensive Data Analysis** – Insights into **tenure, services, contracts, payment methods, & monthly charges**  
 ✅ **Explainability & Interpretability** – SHAP values, permutation importance, and model visualization  
+![app-pic](https://github.com/user-attachments/assets/c31ab606-5f4d-4dec-b3a8-2e3093a4b1fc)
 
 ---
 
@@ -28,6 +29,7 @@ By leveraging **Survival Analysis** and **Predictive Analytics**, this project h
 🔹 **Explainable AI (XAI)**: SHAP (Shapley Additive Explanations), Feature Importance, Partial Dependence Plots  
 🔹 **Model Deployment**: Flask, Heroku, Scikit-learn, Pickle  
 🔹 **Visualization & Reporting**: Kaplan-Meier Survival Curves, Hazard Curves, Decision Trees  
+<img width="267" alt="SurvivalCurve" src="https://github.com/user-attachments/assets/e3b91033-6086-49ee-8ff9-5396c9efb361" />
 
 ---
 
@@ -41,12 +43,16 @@ By leveraging **Survival Analysis** and **Predictive Analytics**, this project h
 - Perform **Log-Rank Tests** to compare churn rates across different groups  
 - Fit **Cox-Proportional Hazard Models** to analyze churn risk factors  
 - Generate **Survival & Hazard Curves** to visualize customer retention trends  
+<img width="593" alt="Survival-analysis" src="https://github.com/user-attachments/assets/ce287b11-e266-4cfd-9ff6-4a5e7cac66c2" />
 
 ### **3️⃣ Churn Prediction Model (Random Forest)**  
 - Train a **Random Forest model** for binary churn prediction  
 - Handle **class imbalance** using weighted loss functions  
 - Tune hyperparameters using **Grid Search Cross-Validation**  
-- Evaluate model performance using **F1 Score, ROC-AUC, and Precision-Recall metrics**  
+- Evaluate model performance using **F1 Score, ROC-AUC, and Precision-Recall metrics**
+-  The final model resulted in 0.62 F1 score and 0.85 ROC-AUC. The resulting plots can be seen below.
+<img width="548" alt="model_1" src="https://github.com/user-attachments/assets/1716335f-a5a8-4fa8-8107-e68da61e9afe" />
+<img width="554" alt="model_feat_imp" src="https://github.com/user-attachments/assets/bdb575d7-de08-4e3d-8f30-682094c26648" />
 
 ### **4️⃣ Explainability & Insights**  
 - Compute **Feature Importance & SHAP values** to understand key churn factors  
